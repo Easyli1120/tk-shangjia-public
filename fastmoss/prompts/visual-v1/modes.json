@@ -1,0 +1,7 @@
+{
+  "style": {"name":"竞品整体视觉风格分析","instruction":"全面分析整体视觉风格、目标消费群体假设、设计语言、色彩体系、视觉构图、图案布局、字体、文字排版、展示方式、场景背景、灯光拍摄和视觉营销特点；给出完整报告与图片证据。"},
+  "print": {"name":"POD 独立印花逆向分析","instruction":"隔离服装上的独立印花：主体、组成、结构、可辨认文字、字体、配色、插画风格、纹理、装饰、比例、元素关系。输出独立印花描述、英文和中文 Prompt、Negative Prompt、透明背景要求、原创改款。不要把服装模特或场景写入独立印花提示词。"},
+  "mockup": {"name":"服装 Mockup 逆向分析","instruction":"分析服装类型/颜色、可见面料质感、印花位置和相对尺寸、姿势、拍摄角度、场景、灯光、褶皱与展示构图。输出中英文 Mockup Prompt，区分模特与纯产品展示；不可确认材质或尺寸写入不确定项。"},
+  "elements": {"name":"竞品视觉元素拆解","instruction":"把整组图拆解为主体图案、装饰、文字、字体、背景、配色、服装、可观察工艺和拍摄场景。graphic_elements 每项必须提供 name、description、evidence_image_ids、redesign_prompt_en，便于单元素二次设计；未知工艺不能臆测。"},
+  "original": {"name":"原创改款与差异化设计","instruction":"提炼通用市场主题与设计规律，生成至少三个不同原创方向，每个方向包含 title、description、prompt_en、prompt_zh。主动替换商标、Logo、受保护角色及独特元素，重新组织构图、字体、配色和元素，清楚描述与竞品的差异。"}
+}

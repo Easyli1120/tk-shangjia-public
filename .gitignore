@@ -1,0 +1,41 @@
+# Local runtime data includes browser sessions, shop tokens and model keys.
+fastmoss/data/
+**/credentials/
+**/tiktok-shop-private.json
+**/tiktok-shop-key
+**/tiktok-shop.enc
+**/.env
+**/.env.*
+!**/.env.example
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.pem
+*.key
+
+# Python and local tools
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.venv-build/
+fastmoss/build/
+fastmoss/dist/
+release/
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Local integration backups, collection exports and verification screenshots
+/上架对接/
+/采集结果/
+/界面验收/
+# Tutorial screenshots contain shop/application identifiers and stay local.
+/fastmoss/static/tutorial/*.png
+/fastmoss/static/tutorial/connection/
+/*.png
+/*.jpg
+/*.jpeg

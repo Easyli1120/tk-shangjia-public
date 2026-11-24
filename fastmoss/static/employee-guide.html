@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TK 上架助手 · 店铺连接操作教程</title><link rel="stylesheet" href="style.css?v=20261123-light-workspace"><link rel="stylesheet" href="shop-management.css?v=20261123-light-workspace">
+<style>
+body{font:16px/1.8 var(--font-ui);background:var(--canvas);color:var(--text);margin:48px auto;max-width:1048px;padding:0 24px}
+body>header{display:block;height:auto;padding:32px;border:1px solid var(--line);border-radius:var(--radius)}
+body>main{margin:24px 0;width:100%}body>footer{padding:32px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+a{color:var(--accent)}article{break-before:page;padding:32px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);margin:24px 0}
+body>header .btn{margin:24px 12px 24px 0}code{overflow-wrap:anywhere}.sm-guide img{max-height:none}
+@media print{button{display:none!important}body{margin:0;background:white}body>header,article,body>footer{padding:0;border:0}article{break-inside:avoid}.sm-guide img{max-height:660px;object-fit:contain}}
+</style>
+<header><h1>店铺连接 · 13 步操作教程</h1><p>按照以下步骤创建自己的应用，最后复制三项内容回软件连接。请使用自己应用里的内容。</p><button class="btn primary" onclick="print()">打印 / 保存为 PDF</button> <a href="./#shop-management">返回店铺管理</a>
+<p><strong>最后只需粘贴：</strong>① Copy authorization link（授权链接）　② App Key　③ App Secret。</p><p>点击「保存并连接店铺」后，点击「复制授权链接」，粘贴到同一台电脑上紫鸟对应的店铺窗口中打开并确认授权。授权期间请保持本软件运行。软件自动接收结果、加密保存凭证并读取店铺；无需手动复制 Token。</p><div id="callback-note"><strong>步骤9的地址：</strong>请回软件店铺管理的第9步，复制当前电脑显示的地址。请使用当前电脑显示的端口。</div></header>
+<main id="guide"></main>
+<footer><h2>连接没有完成时</h2><p>确认应用已发布、权限已生效，使用本应用允许授权的店铺账号。回调打不开时，保持软件运行，将第9步显示的完整地址更新到 Partner Center，再重新连接。平台若拒绝本地回调，可使用店铺管理里的高级回调设置配置自己控制的 HTTPS 地址。</p><p>创建应用、平台审核和授权确认需由使用者完成。选项以自己账号的实际页面和资格为准。绑定成功后，在原一键上架窗口选择店铺即可；缺少权限时软件会提示具体名称。Windows 凭证受当前用户保护，换电脑后重新连接。</p></footer>
+<script src="shop-guide.js"></script><script>
+const e=x=>String(x).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));document.getElementById('guide').innerHTML=SHOP_STEPS.map((s,i)=>'<article>'+shopGuideMarkup(i,e)+'</article>').join('');
+if(location.protocol==='http:'||location.protocol==='https:')fetch('/api/shop/status').then(r=>r.json()).then(d=>{const address=d.callback.mode==='https'?d.callback.url:d.callback.entry_url;document.getElementById('callback-note').innerHTML='<strong>步骤9 · 当前电脑的 Redirect URL：</strong> <code>'+e(address)+'</code>'}).catch(()=>{});
+</script></html>

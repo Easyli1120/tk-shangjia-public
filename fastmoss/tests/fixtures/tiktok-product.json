@@ -1,0 +1,841 @@
+{
+  "product_id": "9000000000000000001",
+  "title": "Example Drawing Kit",
+  "images": [
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-01",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-01~variant-01.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-01~variant-02.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-01",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-01~variant-03.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-01~variant-04.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-02",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-02~variant-05.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-02~variant-06.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-02",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-02~variant-07.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-02~variant-08.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-03",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-03~variant-09.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-03~variant-10.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-03",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-03~variant-11.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-03~variant-12.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-04",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-04~variant-13.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-04~variant-14.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-04",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-04~variant-15.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-04~variant-16.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-05",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-05~variant-17.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-05~variant-18.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-05",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-05~variant-19.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-05~variant-20.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-06",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-06~variant-21.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-06~variant-22.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-06",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-06~variant-23.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-06~variant-24.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-07",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-07~variant-25.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-07~variant-26.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-07",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-07~variant-27.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-07~variant-28.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-08",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-08~variant-29.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-08~variant-30.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-08",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-08~variant-31.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-08~variant-32.webp"
+      ]
+    },
+    {
+      "width": 800,
+      "height": 800,
+      "uri": "tos-fixture/example-09",
+      "url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-09~variant-33.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-09~variant-34.webp"
+      ],
+      "thumb_uri": "tos-fixture/example-09",
+      "thumb_url_list": [
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-09~variant-35.webp",
+        "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-09~variant-36.webp"
+      ]
+    }
+  ],
+  "desc_blocks": [
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{R09NW_0}}",
+        "arguments": {
+          "{{R09NW_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 600,
+        "uri": "tos-fixture/example-10",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-10~variant-37.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-10~variant-38.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 601,
+        "uri": "tos-fixture/example-11",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-11~variant-39.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-11~variant-40.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 600,
+        "uri": "tos-fixture/example-12",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-12~variant-41.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-12~variant-42.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 600,
+        "uri": "tos-fixture/example-13",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-13~variant-43.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-13~variant-44.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 601,
+        "uri": "tos-fixture/example-14",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-14~variant-45.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-14~variant-46.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 601,
+        "uri": "tos-fixture/example-15",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-15~variant-47.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-15~variant-48.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 600,
+        "uri": "tos-fixture/example-16",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-16~variant-49.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-16~variant-50.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 601,
+        "uri": "tos-fixture/example-17",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-17~variant-51.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-17~variant-52.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 601,
+        "uri": "tos-fixture/example-18",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-18~variant-53.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-18~variant-54.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 602,
+        "uri": "tos-fixture/example-19",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-19~variant-55.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-19~variant-56.webp"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 601,
+        "uri": "tos-fixture/example-20",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-20~variant-57.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-20~variant-58.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{TEVEI_0}} {{TEVEI_1}}",
+        "arguments": {
+          "{{TEVEI_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{TEVEI_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 1024,
+        "uri": "tos-fixture/example-21",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-21~variant-59.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-21~variant-60.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{TGVhc_0}} {{TGVhc_1}}",
+        "arguments": {
+          "{{TGVhc_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{TGVhc_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 1024,
+        "uri": "tos-fixture/example-22",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-22~variant-61.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-22~variant-62.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{VmVyc_0}} {{VmVyc_1}}",
+        "arguments": {
+          "{{VmVyc_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{VmVyc_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 1024,
+        "uri": "tos-fixture/example-23",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-23~variant-63.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-23~variant-64.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{R2lmd_0}} {{R2lmd_1}}",
+        "arguments": {
+          "{{R2lmd_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{R2lmd_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 948,
+        "uri": "tos-fixture/example-24",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-24~variant-65.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-24~variant-66.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{RGlzc_0}} {{RGlzc_1}}",
+        "arguments": {
+          "{{RGlzc_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{RGlzc_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 906,
+        "uri": "tos-fixture/example-25",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-25~variant-67.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-25~variant-68.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{QWRqd_0}} {{QWRqd_1}}",
+        "arguments": {
+          "{{QWRqd_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{QWRqd_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 894,
+        "uri": "tos-fixture/example-26",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-26~variant-69.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-26~variant-70.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{RWFze_0}} {{RWFze_1}}",
+        "arguments": {
+          "{{RWFze_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          },
+          "{{RWFze_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    },
+    {
+      "type": "image",
+      "image": {
+        "width": 800,
+        "height": 1064,
+        "uri": "tos-fixture/example-27",
+        "url_list": [
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-27~variant-71.webp",
+          "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-27~variant-72.webp"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Example product detail",
+      "rich_text": {
+        "text_alignment": 1,
+        "template": "{{Q29tc_1}} {{Q29tc_0}}",
+        "arguments": {
+          "{{Q29tc_1}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 1,
+                "font_class": 5
+              }
+            }
+          },
+          "{{Q29tc_0}}": {
+            "text_attribute": {
+              "text": "Example product detail",
+              "font": {
+                "font_weight": 3,
+                "font_class": 5
+              }
+            }
+          }
+        },
+        "text_attribute": {
+          "font": {
+            "font_weight": 1,
+            "font_class": 4
+          },
+          "font_color": {
+            "color": "#FF000000"
+          }
+        }
+      }
+    }
+  ],
+  "price": {
+    "symbol_position": 1,
+    "is_interval_price": true,
+    "real_price": "$20.77 - 27.27",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "min_sku_price": "20.77",
+    "max_sku_price": "27.27",
+    "min_sku_original_price": "41.55"
+  },
+  "sale_props": [
+    {
+      "has_image": true,
+      "has_extended_images": false,
+      "prop_id": "9000000000000000002",
+      "prop_name": "Color",
+      "sale_prop_values": [
+        {
+          "prop_value_id": "9000000000000000003",
+          "prop_value": "RGB-11.9\"L x 7.9\"W(30cm*20cm)&pen*12",
+          "image": {
+            "width": 800,
+            "height": 800,
+            "uri": "tos-fixture/example-28",
+            "url_list": [
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-28~variant-73.webp",
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-28~variant-74.webp"
+            ],
+            "thumb_uri": "tos-fixture/example-28",
+            "thumb_url_list": [
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-28~variant-75.webp",
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-28~variant-76.webp"
+            ]
+          }
+        },
+        {
+          "prop_value_id": "9000000000000000004",
+          "prop_value": "Single-11.9\"L x 7.9\"W(30cm*20cm)&pen*7",
+          "image": {
+            "width": 800,
+            "height": 800,
+            "uri": "tos-fixture/example-29",
+            "url_list": [
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-29~variant-77.webp",
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-29~variant-78.webp"
+            ],
+            "thumb_uri": "tos-fixture/example-29",
+            "thumb_url_list": [
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-29~variant-79.webp",
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-29~variant-80.webp"
+            ]
+          }
+        },
+        {
+          "prop_value_id": "9000000000000000005",
+          "prop_value": "Single-7.9\"L x 7.9\"W(20cm*20cm)&pen*7",
+          "image": {
+            "width": 800,
+            "height": 800,
+            "uri": "tos-fixture/example-30",
+            "url_list": [
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-30~variant-81.webp",
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-30~variant-82.webp"
+            ],
+            "thumb_uri": "tos-fixture/example-30",
+            "thumb_url_list": [
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-30~variant-83.webp",
+              "https://cdn-fixture.tiktokcdn.com/tos-fixture/example-30~variant-84.webp"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "skus": [
+    {
+      "status": 1,
+      "stock": 638,
+      "purchase_limit": 200,
+      "sku_id": "9000000000000000006",
+      "sale_prop_value_ids": "9000000000000000003",
+      "sku_sale_props": [
+        {
+          "prop_id": "9000000000000000002",
+          "prop_name": "Color",
+          "prop_value_id": "9000000000000000003",
+          "prop_value": "RGB-11.9\"L x 7.9\"W(30cm*20cm)&pen*12"
+        }
+      ],
+      "price": {
+        "symbol_position": 1,
+        "price_type": 0,
+        "show_currency_space": false,
+        "sale_price_format": "25.98",
+        "origin_price_format": "51.96",
+        "discount_format": "50%",
+        "currency_symbol": "$",
+        "sale_price_decimal": "25.98",
+        "origin_price_decimal": "51.96",
+        "discount_decimal": "0.5",
+        "currency_name": "USD"
+      },
+      "pdp_button_area_id": "9000000000000000007",
+      "warehouse_id": "9000000000000000008"
+    },
+    {
+      "status": 0,
+      "stock": 2361,
+      "purchase_limit": 200,
+      "sku_id": "9000000000000000009",
+      "sale_prop_value_ids": "9000000000000000004",
+      "sku_sale_props": [
+        {
+          "prop_id": "9000000000000000002",
+          "prop_name": "Color",
+          "prop_value_id": "9000000000000000004",
+          "prop_value": "Single-11.9\"L x 7.9\"W(30cm*20cm)&pen*7"
+        }
+      ],
+      "price": {
+        "symbol_position": 1,
+        "price_type": 0,
+        "show_currency_space": false,
+        "sale_price_format": "27.27",
+        "origin_price_format": "54.55",
+        "discount_format": "50%",
+        "currency_symbol": "$",
+        "sale_price_decimal": "27.27",
+        "origin_price_decimal": "54.55",
+        "discount_decimal": "0.5",
+        "currency_name": "USD"
+      },
+      "pdp_button_area_id": "9000000000000000007",
+      "warehouse_id": "9000000000000000010"
+    },
+    {
+      "status": 0,
+      "stock": 3633,
+      "purchase_limit": 200,
+      "sku_id": "9000000000000000011",
+      "sale_prop_value_ids": "9000000000000000005",
+      "sku_sale_props": [
+        {
+          "prop_id": "9000000000000000002",
+          "prop_name": "Color",
+          "prop_value_id": "9000000000000000005",
+          "prop_value": "Single-7.9\"L x 7.9\"W(20cm*20cm)&pen*7"
+        }
+      ],
+      "price": {
+        "symbol_position": 1,
+        "price_type": 0,
+        "show_currency_space": false,
+        "sale_price_format": "20.77",
+        "origin_price_format": "41.55",
+        "discount_format": "50%",
+        "currency_symbol": "$",
+        "sale_price_decimal": "20.77",
+        "origin_price_decimal": "41.55",
+        "discount_decimal": "0.5",
+        "currency_name": "USD"
+      },
+      "pdp_button_area_id": "9000000000000000007",
+      "warehouse_id": "9000000000000000010"
+    }
+  ],
+  "shop_name": "Example Test Shop"
+}
